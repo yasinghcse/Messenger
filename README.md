@@ -1,2 +1,2 @@
 # Messenger
-Creating of Restful Api in Java using JAXRS
+Restful Api in Java using Jersey
